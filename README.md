@@ -28,7 +28,10 @@
     />
   </a>
 
-  <a href="https://www.linkedin.com/in/carstens-martin/overlay/contact-info/" target="blank">
+  <a
+    href="https://www.linkedin.com/in/carstens-martin/overlay/contact-info/"
+    target="blank"
+  >
     <img
       src="./images/email.gif"
       alt="carstensmartin@outlook.com"
@@ -243,6 +246,19 @@
 
 <br />
 <hr />
+
+<h3 align="left">VISIT MY REPOS:</h3>
+
+<a href="https://github.com/CarstensMartin?tab=repositories" target="blank">
+  <img
+    src="./images/Github Connect.gif"
+    alt="carstens-martin-repos"
+    height="150"
+  />
+</a>
+
+<hr />
+
 <p>
   <img
     src="https://github-profile-trophy.vercel.app/?username=carstensmartin"
