@@ -28,10 +28,7 @@
     />
   </a>
 
-  <a
-    href="https://www.linkedin.com/in/carstens-martin/overlay/contact-info/"
-    target="blank"
-  >
+  <a href="https://www.linkedin.com/in/carstens-martin/overlay/contact-info/" target="blank">
     <img
       src="./images/email.gif"
       alt="carstensmartin@outlook.com"
